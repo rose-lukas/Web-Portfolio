@@ -23,7 +23,7 @@ My first personal Web Developement project showcasing Lukas Rose. A One-page Por
 - [x] Return to Top of Page Button  
 
 ## Images
-<img src=“Images/Web1.PNG”/></a>
+<img src=“./Images/Web1.png”/></a>
 
 ## Credits
 * Lukas Rose
