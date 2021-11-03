@@ -1,6 +1,5 @@
  
-  <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLLwKmlGL_1y-k2yTis204wE73699dFEf-A&usqp=CAU" /></a>
+# Portfolio Page
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
   <img src="https://img.shields.io/badge/Code%20Language-HTML-9cf" /></a>
