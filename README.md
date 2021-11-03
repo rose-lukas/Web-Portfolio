@@ -23,12 +23,6 @@ https://rose-lukas.github.io/Web-Portfolio/.
 - [x] Basic Animations
 - [x] Return to Top of Page Button  
 
-## Images
-<img width="964" src="https://github.com/rose-lukas/Web-Portfolio/blob/main/Images/Web1.PNG">
-<img width="964" src="https://github.com/rose-lukas/Web-Portfolio/blob/main/Images/Web2.PNG">
-<img width="964" src="https://github.com/rose-lukas/Web-Portfolio/blob/main/Images/Web3.PNG">
-<img width="964" src="https://github.com/rose-lukas/Web-Portfolio/blob/main/Images/Web4.PNG">
-<img width="964" src="https://github.com/rose-lukas/Web-Portfolio/blob/main/Images/Web5.PNG">
 
 ## Credits
 * Lukas Rose
