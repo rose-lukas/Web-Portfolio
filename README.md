@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Version-vF-blue" /></a>
  ---
 My first personal Web Developement project showcasing Lukas Rose. A One-page Portfolio website, 2 theme versions.
-https://www.eecs.yorku.ca/~lukayork/.
+https://rose-lukas.github.io/Web-Portfolio/.
 
 ## Features
 - [x] Cover Page
