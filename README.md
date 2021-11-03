@@ -24,5 +24,3 @@ https://rose-lukas.github.io/Web-Portfolio/.
 - [x] Return to Top of Page Button  
 
 
-## Credits
-* Lukas Rose
